@@ -2,10 +2,6 @@
 
 PhD in Logistics Optimization with experience in applied operations research and data-driven decision support.
 
-
-I develop optimization models to study how logistics decisions affect operational performance, system cost, and service design. My work focuses on collaborative last-mile delivery, supply chain network design, choice-based optimization and behavior-aware logistics planning.
-
-
 ## 🔭 Research interests
 
 - Applied Operations research
